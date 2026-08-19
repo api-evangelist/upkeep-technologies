@@ -30,7 +30,7 @@ x-canonical-evidence:
 - https://www.battery.com/list-of-all-companies/ lists "UpKeep Technologies, Inc."
 - https://upkeep.com/terms-of-service/ and /privacy-policy/ identify the operator
   of upkeep.com as "UpKeep Technologies, Inc."
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
